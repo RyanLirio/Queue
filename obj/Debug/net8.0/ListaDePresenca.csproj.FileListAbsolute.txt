@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\bin\Debug\net8.0\ListaDePresenca.exe
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\bin\Debug\net8.0\ListaDePresenca.deps.json
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\bin\Debug\net8.0\ListaDePresenca.runtimeconfig.json
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\bin\Debug\net8.0\ListaDePresenca.dll
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\bin\Debug\net8.0\ListaDePresenca.pdb
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.AssemblyInfo.cs
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.dll
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\refint\ListaDePresenca.dll
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.pdb
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ListaDePresenca.genruntimeconfig.cache
+C:\Users\RL\desktop\Udemy\exercícios\ListaDePresenca\obj\Debug\net8.0\ref\ListaDePresenca.dll
